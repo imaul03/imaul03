@@ -13,10 +13,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=maulgats&repo=maulgats&countColorcountColor&countColor=%237B1E7A)
+![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=imaul03&repo=imaul03&countColorcountColor&countColor=%237B1E7A)
 
 ### Analytics
 
-![github stats](https://github-readme-stats.vercel.app/api?username=maulgats&show_icons=true)
+![github stats](https://github-readme-stats.vercel.app/api?username=imaul03&show_icons=true)
 
-![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=maulgats&hide_border=true)
+![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=imaul03&hide_border=true)
